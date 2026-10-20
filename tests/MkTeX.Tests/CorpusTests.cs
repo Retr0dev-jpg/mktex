@@ -59,14 +59,16 @@ public class CorpusTests
             actual.Append(hash).Append('\t').Append(formula).Append('\n');
         }
 
-        var path = Path.Combine(SourceDirectory(), "Corpus", "snapshots.tsv");
-        var expected = File.Exists(path) ? File.ReadAllText(path).ReplaceLineEndings("\n") : "";
-        if (Environment.GetEnvironmentVariable("MKTEX_UPDATE_SNAPSHOTS") == "1" || expected.Length == 0)
+        if (Environment.GetEnvironmentVariable("MKTEX_UPDATE_SNAPSHOTS") == "1")
         {
-            File.WriteAllText(path, actual.ToString());
+            File.WriteAllText(Path.Combine(SourceDirectory(), "Corpus", "snapshots.tsv"), actual.ToString());
             return;
         }
 
+        // CI builds map source paths to /_/, so the comparison reads the copy in the output directory.
+        var path = Path.Combine(AppContext.BaseDirectory, "Corpus", "snapshots.tsv");
+        Assert.True(File.Exists(path), "Corpus/snapshots.tsv is missing; run the tests with MKTEX_UPDATE_SNAPSHOTS=1.");
+        var expected = File.ReadAllText(path).ReplaceLineEndings("\n");
         var expectedLines = expected.Split('\n', StringSplitOptions.RemoveEmptyEntries).ToHashSet(StringComparer.Ordinal);
         var changed = actual.ToString().Split('\n', StringSplitOptions.RemoveEmptyEntries).Where(l => !expectedLines.Contains(l)).ToList();
         Assert.True(changed.Count == 0, $"{changed.Count} snapshots changed:\n" + string.Join('\n', changed.Take(20)));
