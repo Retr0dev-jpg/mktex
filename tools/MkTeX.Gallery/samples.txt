@@ -1,0 +1,73 @@
+// One formula per line; "D:" prefix = display style.
+x^2 + y^2 = z^2
+D:x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+D:\int_0^\infty e^{-x^2}\,dx = \frac{\sqrt{\pi}}{2}
+D:\sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6}
+\sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6}
+D:\prod_{i=1}^{n} x_i \quad \bigcup_{k} A_k \quad \bigoplus_{j=0}^{m} V_j
+D:\lim_{x \to 0} \frac{\sin x}{x} = 1
+\lim_{x \to 0} \frac{\sin x}{x} = 1
+D:\oint_C \mathbf{F} \cdot d\mathbf{r} = \iint_S (\nabla \times \mathbf{F}) \cdot d\mathbf{S}
+D:\left( \frac{a}{b} \right)^2 \left[ \frac{1}{2} \right] \left\{ x \middle| x > 0 \right\} \left\langle \psi \middle| \phi \right\rangle
+D:\left( \frac{\frac{a}{b}}{\frac{c}{d}} \right) \left| \sum_{i=1}^{n} \frac{x_i^2}{\sqrt{y_i}} \right|
+\big( \Big( \bigg( \Bigg( x \Bigg) \bigg) \Big) \big)
+D:\sqrt{x} \quad \sqrt[3]{x+1} \quad \sqrt{\frac{a}{b}} \quad \sqrt{\sqrt{\sqrt{x}}} \quad \sqrt[n]{\frac{x^2+1}{y}}
+D:\begin{pmatrix} a & b \\ c & d \end{pmatrix} \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix} \begin{vmatrix} x & y \\ z & w \end{vmatrix}
+D:A = \begin{Bmatrix} 1 & 2 \\ 3 & 4 \end{Bmatrix} \quad \begin{Vmatrix} u \end{Vmatrix} \quad \begin{matrix} a & b \\ c & d \end{matrix}
+D:f(x) = \begin{cases} x^2 & \text{if } x \ge 0 \\ -x & \text{otherwise} \end{cases}
+D:\begin{aligned} a &= b + c \\ &= d + e + f \\ x &\le y \end{aligned}
+D:\begin{align} E &= mc^2 \tag{1} \\ F &= ma \end{align}
+D:\begin{array}{c|lr} n & n^2 & n^3 \\ \hline 1 & 1 & 1 \\ 2 & 4 & 8 \end{array}
+D:\begin{gather} a = b \\ c = d + e \end{gather}
+\hat{a} \; \check{b} \; \tilde{c} \; \acute{d} \; \grave{e} \; \dot{f} \; \ddot{g} \; \breve{h} \; \bar{i} \; \vec{v} \; \mathring{A}
+\widehat{xyz} \; \widetilde{abc} \; \overline{AB} \; \underline{CD} \; \overrightarrow{AB} \; \overleftarrow{CD} \; \overleftrightarrow{EF}
+D:\overbrace{a + b + c}^{3} \quad \underbrace{x_1 + \cdots + x_n}_{n \text{ terms}}
+D:A \xrightarrow{f} B \xleftarrow[g]{h} C \xRightarrow{\text{long label}} D \xlongequal{def} E \xrightleftharpoons[k_2]{k_1} F
+\alpha \beta \gamma \delta \epsilon \varepsilon \zeta \eta \theta \vartheta \iota \kappa \lambda \mu \nu \xi \pi \varpi \rho \varrho \sigma \varsigma \tau \upsilon \phi \varphi \chi \psi \omega
+\Gamma \Delta \Theta \Lambda \Xi \Pi \Sigma \Upsilon \Phi \Psi \Omega \quad \varGamma \varDelta
+\mathbb{R} \mathbb{N} \mathbb{Z} \mathbb{Q} \mathbb{C} \quad \mathcal{L} \mathcal{F} \quad \mathfrak{g} \mathfrak{H} \quad \mathscr{B} \quad \mathsf{Sans} \quad \mathtt{mono} \quad \mathbf{Bold} \quad \mathit{Italic} \quad \mathrm{Roman}
+\boldsymbol{\alpha + \Gamma x} \quad \bm{v} \quad \mathbf{0123}
+\leq \geq \neq \approx \equiv \sim \simeq \cong \propto \subset \supset \subseteq \supseteq \in \notin \ni \perp \parallel \mid
+\to \gets \Rightarrow \Leftarrow \Leftrightarrow \mapsto \longrightarrow \hookrightarrow \uparrow \downarrow \nearrow \leadsto
+\pm \mp \times \div \cdot \ast \star \circ \bullet \oplus \otimes \odot \cup \cap \wedge \vee \setminus
+\forall \exists \nexists \neg \partial \nabla \infty \emptyset \varnothing \aleph \hbar \ell \Re \Im \wp \angle \triangle
+\ldots \cdots \vdots \ddots \quad 1, 2, \ldots, n \quad a + \cdots + z
+\not= \not\in \not\subset \not\equiv \not\parallel
+a\,b\:c\;d\!e\quad f\qquad g \hspace{1em} h \kern 2em i \mkern 18mu j
+\sin x \cos y \tan z \log n \ln e \exp t \arcsin u \sinh v \det A \gcd(a,b) \max_i x_i \min \sup \inf \Pr
+\operatorname{rank}(A) \quad \operatorname*{argmax}_{x \in X} f(x) \quad \DeclareMathOperator{\Tr}{Tr} \Tr(M)
+D:\operatorname*{argmin}_{\theta} \mathcal{L}(\theta)
+f'(x) \quad f''(x) \quad f'''(x) \quad g'^2 \quad y'_1 \quad x^{\prime}
+a_1^2 \quad a_{i,j}^{(k)} \quad x^{2^{2^2}} \quad x_{a_{b_c}} \quad {}^{14}_{6}\mathrm{C} \quad e^{i\pi} + 1 = 0
+\binom{n}{k} \quad \dbinom{n}{k} \quad \tbinom{n}{k} \quad {n \choose k} \quad {a \over b} \quad {a \atop b}
+D:\binom{n}{k} = \frac{n!}{k!(n-k)!} \quad \dfrac{1}{2} \quad \tfrac{1}{2}
+D:\cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + x}}}
+D:\genfrac{[}{]}{0pt}{}{n}{k} \quad \genfrac{}{}{1pt}{}{a}{b}
+\text{Plain text with } x^2 \text{ and \textbf{bold} and \textit{italic} } \mathrm{d}x
+\textcolor{red}{red} \; \color{blue} blue \; x
+\colorbox{yellow}{boxed text} \quad \fcolorbox{red}{white}{frame} \quad \boxed{E = mc^2}
+\cancel{x} \; \bcancel{y} \; \xcancel{z} \; \sout{strike}
+\phantom{xx}| \; |\hphantom{yy}| \; \vphantom{\frac{a}{b}}x \; \smash{\frac{a}{b}} \; \mathrlap{/}= \; \rule{1em}{0.5em}
+\overset{\text{def}}{=} \quad \underset{x}{\arg\max} \quad \stackrel{?}{=} \quad A \overset{f}{\longrightarrow} B
+\ce{H2O} \quad \ce{2H2 + O2 -> 2H2O} \quad \ce{Fe^{3+}} \quad \ce{SO4^2-} \quad \ce{A <=> B}
+\pu{9.81 m/s^2}
+\newcommand{\RR}{\mathbb{R}} f: \RR \to \RR \quad \def\sq#1{#1^2} \sq{x} + \sq{y}
+\displaystyle \sum_{i=1}^n i \quad \textstyle \sum_{i=1}^n i \quad \scriptstyle x^2 \quad \scriptscriptstyle y
+\tiny a \small b \normalsize c \large d \Large e \LARGE f \huge g \Huge h
+\langle a, b \rangle \quad \lfloor x \rfloor \quad \lceil y \rceil \quad \| v \| \quad |x| \quad \{a, b\}
+D:\left\lfloor \frac{n}{2} \right\rfloor \left\lceil \frac{m}{3} \right\rceil \left\| \vec{v} \right\| \left. \frac{df}{dx} \right|_{x=0}
+D:\int \int \iint \iiint \oint \quad \int\limits_0^1 f \quad \sum\nolimits_{i} a_i
+D:x = a_0 + \cfrac{1}{a_1 + \cfrac{1}{a_2}}
+D:\mathbb{E}[X] = \int_{-\infty}^{\infty} x f(x) \, dx \qquad \mathrm{Var}(X) = \mathbb{E}\left[(X - \mu)^2\right]
+D:\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0} \qquad \nabla \times \mathbf{B} - \frac{1}{c^2}\frac{\partial \mathbf{E}}{\partial t} = \mu_0 \mathbf{J}
+D:i\hbar\frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \left[-\frac{\hbar^2}{2m}\nabla^2 + V(\mathbf{r},t)\right]\Psi(\mathbf{r},t)
+D:\det(A - \lambda I) = 0 \qquad A^{-1} = \frac{1}{\det A} \operatorname{adj}(A)
+D:\sum_{\substack{0 < i < m \\ 0 < j < n}} P(i, j)
+D:a \\ b + c \\ d
+x \bmod y \quad a \equiv b \pmod{n}
+\bra{\psi} \quad \ket{\phi} \quad \braket{\psi|\phi}
+\TeX \quad \LaTeX
+\unknowncommand{x}
+\frac{1}{
+\left( x
+\begin{matrix} a & b \end{pmatrix}

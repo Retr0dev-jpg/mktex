@@ -1,0 +1,762 @@
+6135E58097A6491C	x^2 + y^2 = z^2
+4331C17E3D6A9D49	D:x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+1EFA5DCAC7730D6F	D:\int_0^\infty e^{-x^2}\,dx = \frac{\sqrt{\pi}}{2}
+8BDB80B65D0DCEB8	D:\sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6}
+254C8A9E066B989D	\sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6}
+3D115C3BEAB85386	D:\prod_{i=1}^{n} x_i \quad \bigcup_{k} A_k \quad \bigoplus_{j=0}^{m} V_j
+0216950D3015A47F	D:\lim_{x \to 0} \frac{\sin x}{x} = 1
+85F7516D5DA1C318	\lim_{x \to 0} \frac{\sin x}{x} = 1
+BB2B5F6F58106E3C	D:\oint_C \mathbf{F} \cdot d\mathbf{r} = \iint_S (\nabla \times \mathbf{F}) \cdot d\mathbf{S}
+2344C1FB88E2C4FD	D:\left( \frac{a}{b} \right)^2 \left[ \frac{1}{2} \right] \left\{ x \middle| x > 0 \right\} \left\langle \psi \middle| \phi \right\rangle
+E8F66842645361D9	D:\left( \frac{\frac{a}{b}}{\frac{c}{d}} \right) \left| \sum_{i=1}^{n} \frac{x_i^2}{\sqrt{y_i}} \right|
+3E3B45889EAAFEE5	\big( \Big( \bigg( \Bigg( x \Bigg) \bigg) \Big) \big)
+5227AB8B8CBA3D2D	D:\sqrt{x} \quad \sqrt[3]{x+1} \quad \sqrt{\frac{a}{b}} \quad \sqrt{\sqrt{\sqrt{x}}} \quad \sqrt[n]{\frac{x^2+1}{y}}
+D1EB2341765299E6	D:\begin{pmatrix} a & b \\ c & d \end{pmatrix} \begin{bmatrix} 1 & 0 & 0 \\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix} \begin{vmatrix} x & y \\ z & w \end{vmatrix}
+6D1B6A42F59B38C7	D:A = \begin{Bmatrix} 1 & 2 \\ 3 & 4 \end{Bmatrix} \quad \begin{Vmatrix} u \end{Vmatrix} \quad \begin{matrix} a & b \\ c & d \end{matrix}
+4C036C1A0E9D2D7A	D:f(x) = \begin{cases} x^2 & \text{if } x \ge 0 \\ -x & \text{otherwise} \end{cases}
+59F7CBBF2038492D	D:\begin{aligned} a &= b + c \\ &= d + e + f \\ x &\le y \end{aligned}
+F79736FCBF2C1F83	D:\begin{align} E &= mc^2 \tag{1} \\ F &= ma \end{align}
+EE60E354D1919AA8	D:\begin{array}{c|lr} n & n^2 & n^3 \\ \hline 1 & 1 & 1 \\ 2 & 4 & 8 \end{array}
+D12FCD27944D03BD	D:\begin{gather} a = b \\ c = d + e \end{gather}
+9CD615332C4B50DD	\hat{a} \; \check{b} \; \tilde{c} \; \acute{d} \; \grave{e} \; \dot{f} \; \ddot{g} \; \breve{h} \; \bar{i} \; \vec{v} \; \mathring{A}
+1985DF3ADA571E43	\widehat{xyz} \; \widetilde{abc} \; \overline{AB} \; \underline{CD} \; \overrightarrow{AB} \; \overleftarrow{CD} \; \overleftrightarrow{EF}
+5592E67D77B92539	D:\overbrace{a + b + c}^{3} \quad \underbrace{x_1 + \cdots + x_n}_{n \text{ terms}}
+A5C078CBF1C253F0	D:A \xrightarrow{f} B \xleftarrow[g]{h} C \xRightarrow{\text{long label}} D \xlongequal{def} E \xrightleftharpoons[k_2]{k_1} F
+936CA9AB2E32026E	\alpha \beta \gamma \delta \epsilon \varepsilon \zeta \eta \theta \vartheta \iota \kappa \lambda \mu \nu \xi \pi \varpi \rho \varrho \sigma \varsigma \tau \upsilon \phi \varphi \chi \psi \omega
+AEC4F08EFEAA9776	\Gamma \Delta \Theta \Lambda \Xi \Pi \Sigma \Upsilon \Phi \Psi \Omega \quad \varGamma \varDelta
+3BAD51BE6F74B544	\mathbb{R} \mathbb{N} \mathbb{Z} \mathbb{Q} \mathbb{C} \quad \mathcal{L} \mathcal{F} \quad \mathfrak{g} \mathfrak{H} \quad \mathscr{B} \quad \mathsf{Sans} \quad \mathtt{mono} \quad \mathbf{Bold} \quad \mathit{Italic} \quad \mathrm{Roman}
+F0001983C75584BE	\boldsymbol{\alpha + \Gamma x} \quad \bm{v} \quad \mathbf{0123}
+B6C469DDB5F7AD3C	\leq \geq \neq \approx \equiv \sim \simeq \cong \propto \subset \supset \subseteq \supseteq \in \notin \ni \perp \parallel \mid
+F7D3D27CDA480757	\to \gets \Rightarrow \Leftarrow \Leftrightarrow \mapsto \longrightarrow \hookrightarrow \uparrow \downarrow \nearrow \leadsto
+80DF641598845615	\pm \mp \times \div \cdot \ast \star \circ \bullet \oplus \otimes \odot \cup \cap \wedge \vee \setminus
+B5A8196FCE64A7F0	\forall \exists \nexists \neg \partial \nabla \infty \emptyset \varnothing \aleph \hbar \ell \Re \Im \wp \angle \triangle
+27AB7AB796B3C3AD	\ldots \cdots \vdots \ddots \quad 1, 2, \ldots, n \quad a + \cdots + z
+6BF9EFAD8C2E3DD7	\not= \not\in \not\subset \not\equiv \not\parallel
+04EDD469A667936B	a\,b\:c\;d\!e\quad f\qquad g \hspace{1em} h \kern 2em i \mkern 18mu j
+3B8C8050D65C15D8	\sin x \cos y \tan z \log n \ln e \exp t \arcsin u \sinh v \det A \gcd(a,b) \max_i x_i \min \sup \inf \Pr
+02AD60EC395439CC	\operatorname{rank}(A) \quad \operatorname*{argmax}_{x \in X} f(x) \quad \DeclareMathOperator{\Tr}{Tr} \Tr(M)
+FBFAF800BEDA59B1	D:\operatorname*{argmin}_{\theta} \mathcal{L}(\theta)
+82C95933C3E60F6A	f'(x) \quad f''(x) \quad f'''(x) \quad g'^2 \quad y'_1 \quad x^{\prime}
+16F07E7043431DD4	a_1^2 \quad a_{i,j}^{(k)} \quad x^{2^{2^2}} \quad x_{a_{b_c}} \quad {}^{14}_{6}\mathrm{C} \quad e^{i\pi} + 1 = 0
+A1F0E98EA0FC4C40	\binom{n}{k} \quad \dbinom{n}{k} \quad \tbinom{n}{k} \quad {n \choose k} \quad {a \over b} \quad {a \atop b}
+91BA2AABA1DCEA2E	D:\binom{n}{k} = \frac{n!}{k!(n-k)!} \quad \dfrac{1}{2} \quad \tfrac{1}{2}
+1AA35E820EE4095D	D:\cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + x}}}
+54AD54BF1E6A717E	D:\genfrac{[}{]}{0pt}{}{n}{k} \quad \genfrac{}{}{1pt}{}{a}{b}
+1C7124AF6BB2CDDD	\text{Plain text with } x^2 \text{ and \textbf{bold} and \textit{italic} } \mathrm{d}x
+96FED158C13B9274	\textcolor{red}{red} \; \color{blue} blue \; x
+04E4C9D19855B55A	\colorbox{yellow}{boxed text} \quad \fcolorbox{red}{white}{frame} \quad \boxed{E = mc^2}
+DB9394CC6CC6A0E0	\cancel{x} \; \bcancel{y} \; \xcancel{z} \; \sout{strike}
+D48F5F976591309E	\phantom{xx}| \; |\hphantom{yy}| \; \vphantom{\frac{a}{b}}x \; \smash{\frac{a}{b}} \; \mathrlap{/}= \; \rule{1em}{0.5em}
+04AC038E362B948B	\overset{\text{def}}{=} \quad \underset{x}{\arg\max} \quad \stackrel{?}{=} \quad A \overset{f}{\longrightarrow} B
+38F827378774D092	\ce{H2O} \quad \ce{2H2 + O2 -> 2H2O} \quad \ce{Fe^{3+}} \quad \ce{SO4^2-} \quad \ce{A <=> B}
+18A8F14F6BC578A0	\pu{9.81 m/s^2}
+4C1457E53317076F	\newcommand{\RR}{\mathbb{R}} f: \RR \to \RR \quad \def\sq#1{#1^2} \sq{x} + \sq{y}
+3203C0981F0D7647	\displaystyle \sum_{i=1}^n i \quad \textstyle \sum_{i=1}^n i \quad \scriptstyle x^2 \quad \scriptscriptstyle y
+70013CC5D4683B69	\tiny a \small b \normalsize c \large d \Large e \LARGE f \huge g \Huge h
+E65692862606EF98	\langle a, b \rangle \quad \lfloor x \rfloor \quad \lceil y \rceil \quad \| v \| \quad |x| \quad \{a, b\}
+7B204C9AAB397332	D:\left\lfloor \frac{n}{2} \right\rfloor \left\lceil \frac{m}{3} \right\rceil \left\| \vec{v} \right\| \left. \frac{df}{dx} \right|_{x=0}
+097B534C0231DBCD	D:\int \int \iint \iiint \oint \quad \int\limits_0^1 f \quad \sum\nolimits_{i} a_i
+D6008ABAEED83949	D:x = a_0 + \cfrac{1}{a_1 + \cfrac{1}{a_2}}
+3489F733100C1083	D:\mathbb{E}[X] = \int_{-\infty}^{\infty} x f(x) \, dx \qquad \mathrm{Var}(X) = \mathbb{E}\left[(X - \mu)^2\right]
+F03A33AEE59687B2	D:\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0} \qquad \nabla \times \mathbf{B} - \frac{1}{c^2}\frac{\partial \mathbf{E}}{\partial t} = \mu_0 \mathbf{J}
+8B0D3E665F1F3FF7	D:i\hbar\frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \left[-\frac{\hbar^2}{2m}\nabla^2 + V(\mathbf{r},t)\right]\Psi(\mathbf{r},t)
+0F84D7A7DD54C335	D:\det(A - \lambda I) = 0 \qquad A^{-1} = \frac{1}{\det A} \operatorname{adj}(A)
+FFCD2B8C91E60DAA	D:\sum_{\substack{0 < i < m \\ 0 < j < n}} P(i, j)
+F3D3E2A10DC792A4	D:a \\ b + c \\ d
+61E11A41D376868C	x \bmod y \quad a \equiv b \pmod{n}
+3B8FB663BFC6ED5B	\bra{\psi} \quad \ket{\phi} \quad \braket{\psi|\phi}
+B356740DF0696553	\TeX \quad \LaTeX
+F346CFD9C9324123	D:\frac{1}{\Bigl(\sqrt{\phi\sqrt{5}}-\phi\Bigr)e^{\frac25\pi}} = 1+\frac{e^{-2\pi}}{1+\frac{e^{-4\pi}}{1+\frac{e^{-6\pi}}{1+\frac{e^{-8\pi}}{1+\cdots}}}}
+712792B619F12BB6	D:\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+5D6CE825A64AC5A8	D:\frac{1}{(\sqrt{\phi \sqrt{5}}-\phi) e^{\frac25 \pi}} \quad \mathbf{V}_1 \times \mathbf{V}_2 = \begin{vmatrix} \mathbf{i} & \mathbf{j} & \mathbf{k} \\ \frac{\partial X}{\partial u} & \frac{\partial Y}{\partial u} & 0 \\ \frac{\partial X}{\partial v} & \frac{\partial Y}{\partial v} & 0 \end{vmatrix}
+BA342404A21206AB	D:P(E) = {n \choose k} p^k (1-p)^{n-k}
+7EA9A9B6AD0DBC60	D:\frac{1}{\pi} = \frac{2\sqrt{2}}{9801} \sum_{k=0}^\infty \frac{(4k)!(1103+26390k)}{(k!)^4 396^{4k}}
+6BB6358F0EB0A1A3	D:1 + \frac{q^2}{(1-q)}+\frac{q^6}{(1-q)(1-q^2)}+\cdots = \prod_{j=0}^{\infty}\frac{1}{(1-q^{5j+2})(1-q^{5j+3})}, \quad\text{for } |q|<1
+E93C9FF20984778B	D:\mathcal{F}\{f\}(\xi) = \int_{-\infty}^{\infty} f(x)\, e^{-2\pi i x \xi}\, dx
+755EEAFAA0C80D27	D:\Gamma(z) = \int_0^\infty t^{z-1} e^{-t}\, dt \qquad \zeta(s) = \sum_{n=1}^\infty \frac{1}{n^s} = \prod_p \frac{1}{1-p^{-s}}
+EE443385849A5528	D:\frac{\partial^2 u}{\partial t^2} = c^2 \nabla^2 u \qquad \frac{d}{dx}\left( \int_a^x f(t)\,dt \right) = f(x)
+926B4E79AC59FD3C	D:\begin{bmatrix} a_{11} & a_{12} & \cdots & a_{1n} \\ a_{21} & a_{22} & \cdots & a_{2n} \\ \vdots & \vdots & \ddots & \vdots \\ a_{m1} & a_{m2} & \cdots & a_{mn} \end{bmatrix}
+C79CEACEB389C205	D:\begin{pmatrix*}[r] -1 & 3 \\ 2 & -4 \end{pmatrix*} \quad \begin{smallmatrix} a & b \\ c & d \end{smallmatrix}
+51CC5F488FAF96D5	D:\begin{dcases} \frac{1}{x} & x > 0 \\ 0 & x \le 0 \end{dcases} \quad \begin{rcases} a & b \\ c & d \end{rcases}
+91022F48D5F1869A	D:\begin{split} (a+b)^2 &= a^2 + 2ab + b^2 \\ &\ge 4ab \end{split}
+FB0BD56CD8FC6AB7	D:\begin{alignat}{2} x &= y & \quad z &= w \end{alignat}
+A254A983E790446C	D:\begin{multline} a + b + c \\ + d + e \end{multline}
+FF9A85BAC0B3BB60	D:\begin{equation} E = mc^2 \end{equation}
+40C2F05060D9BD52	D:\begin{gathered} x = 1 \\ y = 2 \end{gathered}
+70481372748A0A60	D:\begin{subarray}{l} i < n \\ j < m \end{subarray}
+1FFA87F16438C4E5	D:\left\langle \frac{a}{b} \right\rangle \left\lvert x \right\rvert \left\lVert y \right\rVert \left\uparrow \frac{a}{b} \right\downarrow \left\Updownarrow x \right.
+ECBA6FC896C42F4B	D:\left/ \frac{a}{b} \right\backslash \quad \left\lgroup x \right\rgroup \quad \left\lmoustache y \right\rmoustache
+0024727501B73513	D:\bigl[ x \bigr] \Bigl\{ y \Bigr\} \biggl\langle z \biggr\rangle \Biggl| w \Biggr|
+06823EBECA906A0C	D:\int_{\Omega} \nabla u \cdot \nabla v \, d\Omega = \oint_{\partial\Omega} v \frac{\partial u}{\partial n} \, ds
+861D9485C5D54ABD	D:\iiint_V \rho \, dV \qquad \oiint_S \mathbf{E}\cdot d\mathbf{A}
+727A5FA1B63EF30B	\mathrm{e}^{i\theta} = \cos\theta + i\sin\theta
+188F7FA0EDA6FCF2	\vec{F} = m\vec{a} \quad \dot{x} = v \quad \ddot{x} = a \quad \dddot{x} \quad \hat{\imath} \quad \hat{\jmath}
+564FBAD7AB3C0A79	\overline{\overline{x}} \quad \underline{\underline{y}} \quad \widetilde{\widetilde{z}}
+63A28FE462C6D651	\overleftarrow{AB} \quad \underleftarrow{AB} \quad \underrightarrow{AB} \quad \underleftrightarrow{AB} \quad \overgroup{AB} \quad \undergroup{AB}
+BD27CDFF1047DA18	\overbracket{a+b}^{x} \quad \underbracket{c+d}_{y} \quad \overparen{e+f} \quad \underparen{g+h}
+D6EA3FA7B1221845	\xleftrightarrow{abc} \quad \xLeftarrow{x} \quad \xLeftrightarrow{y} \quad \xhookrightarrow{z} \quad \xhookleftarrow{w} \quad \xmapsto{f}
+BE40CFABFA8832A7	\mathbin{\#} \quad \mathrel{\star} \quad a \mathpunct{;} b \quad \mathopen{[} x \mathclose{]} \quad \mathinner{x} \quad \mathord{+}
+B370CD6A58C71B6F	\mathop{\mathrm{Res}}_{z=0} f \quad \mathop{X}\limits_{i} \quad \operatornamewithlimits{ess\,sup}_{x}
+6032ED0747809A79	\rlap{/}x \quad \llap{/}y \quad \clap{=} \quad \mathllap{a} \quad \mathclap{b}
+31AAC57BC2ABD785	\smash[t]{\frac{a}{b}} \quad \smash[b]{\frac{a}{b}} \quad \raisebox{0.5em}{up} \quad \rule[-0.2em]{0.5em}{1em}
+69877A0F1FB908E9	\fbox{text box} \quad \boxed{\int f} \quad \colorbox{#ffcccc}{pink} \quad \fcolorbox[HTML]{0000FF}{FFFF00}{both}
+A71244ACF2C3FF9D	\color{ForestGreen} \text{forest} \quad \textcolor[RGB]{255,128,0}{orange}
+42231E4D1C57AEDF	\text{\textbf{bold \textit{both}} \texttt{mono} \textsf{sans} \emph{emph}}
+2B219F425D4C760E	\text{accents: \'a \`e \^i \"o \~n \c{c} \v{s} \H{o} \r{a} \u{g} \=a \.z}
+9FB168586AAE6EEB	\text{symbols: \$ \% \& \# \_ \{ \} \textbackslash \ldots \textendash \textemdash \S \P \copyright}
+5FD91E07DC3E00CC	\text{\tiny tiny \small small \large large \Huge huge}
+03424CD070EF79D7	\char"263A \quad \char65 \quad \char'101
+AC393AC9483144E1	\pu{1.5e3 kg*m/s^2} \quad \pu{25 mL}
+E360DEC9048C9D92	\ce{CO2 + C -> 2 CO} \quad \ce{Hg^2+ ->[I-] HgI2 ->[I-] [Hg^{II}I4]^2-} \quad \ce{CuSO4*5H2O} \quad \ce{H2(aq) <-> 2H(aq)}
+616E2DAE31F20E13	\ce{NaCl(s) -> Na+(aq) + Cl-(aq)} \quad \ce{CH3-CH=CH2} \quad \ce{HC#CH}
+DC67B47CCC3F3FA8	\let\foo\alpha \foo \quad \providecommand{\alpha}{x} \alpha \quad \renewcommand{\R}{\mathbb{K}} \R
+ADEC6259325C2EBF	\def\add#1#2{#1+#2} \add{a}{b} \quad \gdef\g{y} \g
+ACD0EBDB871CE0F7	\nobreak a \allowbreak b \relax c
+7CD7251560D63B50	x \in A \cup B \cap C \setminus D \quad A \triangle B \quad A^\complement \quad \mathcal{P}(X)
+F8F9BD58E8E689B8	\sum_{i=0}^{n} \binom{n}{i} = 2^n \quad \prod_{p\,\text{prime}} \frac{1}{1-p^{-s}}
+64AEF5400EB0312C	f\colon X \to Y, \quad x \mapsto f(x) \quad g \circ f \quad f^{-1}(U)
+F2BCAFC68615F22B	\forall \varepsilon > 0\ \exists \delta > 0 : |x - a| < \delta \implies |f(x) - f(a)| < \varepsilon
+5912AB743E060CCB	\lim_{n\to\infty}\left(1+\frac{1}{n}\right)^n = e \quad \limsup_{n} a_n \quad \liminf_{n} b_n \quad \varlimsup_n c_n
+1FE04C6D935B134A	a \equiv b \pmod{m} \quad a \bmod b \quad \gcd(a, b) \mid c \quad a \nmid b
+843B11C2AE26E6CE	p \land q \lor \lnot r \quad p \Rightarrow q \iff \neg q \Rightarrow \neg p \quad \top \bot \vdash \models
+83782A08AD0F5945	\langle u, v \rangle = \|u\|\,\|v\| \cos\theta \quad \lVert x \rVert_2 \quad \lvert y \rvert
+10BA22E4796FA90E	\Re(z) \quad \Im(z) \quad \bar{z} \quad |z|^2 = z\bar{z} \quad \arg z
+9875DD408CC644EE	\mathbb{1} \quad \mathbb{0123} \quad \mathbf{\nabla} \quad \boldsymbol{\nabla} \quad \bm{\partial}
+294617E84DC0D860	\mathfrak{su}(2) \quad \mathfrak{gl}_n \quad \mathscr{L}\{f\} \quad \mathcal{O}(n \log n)
+AB39733AAAFA6AB1	A_{m \times n} \quad A^\top \quad A^\dagger \quad A^{\ast} \quad \operatorname{tr}(A) \quad \det(A) \quad \operatorname{rank} A
+8A8DC1802F0C1506	x_1, x_2, \dots, x_n \quad x_1 + x_2 + \dotsb + x_n \quad x_1 x_2 \dotsm x_n \quad \int \dotsi \int
+A513316031276605	\iddots \quad \adots \quad \ddots \quad \vdots
+4A2EF555B7D081B4	\Box \quad \Diamond \quad \blacksquare \quad \square \quad \lozenge \quad \bigstar \quad \checkmark \quad \maltese
+50107E69D4DD8D06	\leftrightarrows \quad \rightleftarrows \quad \upuparrows \quad \downdownarrows \quad \circlearrowleft \quad \curvearrowright
+3E6454C1CD13C6DF	\lesssim \gtrsim \lessapprox \gtrapprox \lessgtr \gtrless \preceq \succeq \precsim \succsim \ll \gg \lll \ggg
+6EE6361EBD2384C2	\sqsubseteq \sqsupseteq \subsetneq \supsetneq \Subset \Supset \vartriangleleft \trianglerighteq
+A98717D87B91826F	\doteq \triangleq \coloneqq \eqqcolon \circeq \bumpeq \fallingdotseq \risingdotseq \between \pitchfork
+B1E71765242FF14D	\amalg \uplus \sqcap \sqcup \wr \dotplus \ltimes \rtimes \boxplus \boxminus \boxtimes \boxdot \circledast \circleddash
+F9B0CBD66461B7CB	\hbar \hslash \eth \mho \Finv \Game \beth \gimel \daleth \digamma \varkappa
+C5BA1C7EFC2E4558	\sum\limits_{k} \quad \prod\nolimits_{j} \quad \int\displaylimits_a^b \quad \coprod_{i \in I} X_i
+DE9E8484CB560CDA	D:\bigcap_{i=1}^n A_i \quad \bigvee_{x} \quad \bigwedge_{y} \quad \bigodot_z \quad \bigotimes_k \quad \biguplus_j \quad \bigsqcup_l
+FB82E6CDE68468C1	D:\underset{n \to \infty}{\lim} \quad \overset{!}{=} \quad \overunderset{a}{b}{\longrightarrow}
+EFE01C619ECB34DA	D:\sqrt[\uproot{}n]{x} \quad \sqrt{1+\sqrt{1+\sqrt{1+\sqrt{1+x}}}}
+1539AD03D967AE31	D:\left. \begin{aligned} \dot{x} &= \sigma(y-x) \\ \dot{y} &= \rho x - y - xz \\ \dot{z} &= -\beta z + xy \end{aligned} \right\} \text{Lorenz}
+026635083BF0D6B3	D:\mathbf{A} = \left[ \begin{array}{ccc|c} 1 & 0 & 2 & 3 \\ 0 & 1 & -1 & 4 \\ \hline 0 & 0 & 0 & 0 \end{array} \right]
+8AF5D5C9514FC87B	D:\begin{array}{|c|c|} \hline x & y \\ \hline 1 & 2 \\ \hline \end{array}
+E44EA34F268CD053	D:\tfrac{a}{b} \dfrac{c}{d} \frac{\displaystyle\sum_i x_i}{\displaystyle\prod_j y_j}
+D8E404C4EC10CBFD	D:{a \above 1pt b} \quad {a \brace b} \quad {a \brack b}
+13E68A2900BA914F	D:\cancelto{0}{x} \quad \not\exists \quad \not\models \quad \nleq \quad \ngeq \quad \neq
+07D67BAA5118D467	D:\stackrel{\text{def}}{\iff} \quad A \xrightarrow[\text{below}]{\text{above}} B \quad \xlongequal[\text{b}]{\text{a}}
+D03EBC83935FA569	D:\text{Area} = \pi r^2 \tag*{(*)}
+9FE2C79E5362CF6F	D:\int_0^{2\pi} \!\!\! d\theta \; \quad \int\!\!\!\int_D f \quad a\mkern-9mu b \quad a\hskip 1em b \quad a\mskip 3mu b \quad a\mspace{12mu}b
+A1B1A5CC8BE1B83E	D:\displaystyle\frac{1}{2}\textstyle\frac{1}{2}\scriptstyle\frac{1}{2}\scriptscriptstyle\frac{1}{2}
+1422A358D2735600	\Alpha \Beta \Epsilon \Zeta \Eta \Iota \Kappa \Mu \Nu \Omicron \Rho \Tau \Chi \omicron
+DEE13CF1E44C759D	\varGamma \varDelta \varTheta \varLambda \varXi \varPi \varSigma \varUpsilon \varPhi \varPsi \varOmega
+24809C581A6CBDC2	\R \N \Z \Q \C \Reals \Complex \natnums \cnums
+99FF219E68CC9BF6	\bra{0} \ket{1} \braket{0|1} \Bra{\phi} \Ket{\psi} \set{1, 2} \Set{x \mid x > 0} \abs{x} \norm{v}
+10020879F0BCE69B	\celsius \quad \ohm \quad \micro \quad \angstrom \quad \degree \quad 45^\circ
+5DF0E9D95C8A08ED	\KaTeX \quad \TeX \quad \LaTeX
+B1795E27517AC239	\url{https://example.com} \quad \href{https://example.com}{\text{link}}
+62678AD7F994E42D	x\label{eq:1} \quad \eqref{1} \quad \ref{2} \quad a \nonumber
+66E6469ACFFE195E	a \Alpha b
+7E22C8C15B9207C8	a \Bbbk b
+1BAEF8BCF983FDDF	a \Beta b
+11EC5F30A781972E	a \Box b
+AA816D85A1962925	a \Bumpeq b
+C44FD4F6BD846D3E	a \Cap b
+A5C588139EAF4C70	a \Chi b
+6F71A99D1D2768F7	a \Coloneqq b
+D022DAA9ABE0ABC8	a \Cup b
+B788CAC317D65A44	a \Delta b
+E36F20C8332CE2D7	a \Diamond b
+4DEB2F7A04423E03	a \Doteq b
+CE20DA4FCEFE8CE5	a \Downarrow b
+0B4D5D38E9D9B8F0	a \Epsilon b
+C3C133AAA3826325	a \Eta b
+47061573109FA105	a \Finv b
+2EE3D9956F3E4D1F	a \Game b
+AF9694FE959D4732	a \Gamma b
+4211F2F78DA3D44D	a \Im b
+1ED6DF92D67EE83C	a \Iota b
+D2A2F0332B91DF5D	a \Join b
+8854D64372E2FC97	a \Kappa b
+A519DDD35439ABF7	a \Lambda b
+3C8D6D7FBE8651B2	a \Leftarrow b
+90CA5BB3F5B884A4	a \Leftrightarrow b
+3AFAF3C6A35C8F9C	a \Lleftarrow b
+3FC08D4BA68A9D4A	a \Longleftarrow b
+90740B4BD515F12C	a \Longleftrightarrow b
+2B176EAB83F951EF	a \Longmapsto b
+1FF0E5FF1DC8C1B1	a \Longrightarrow b
+9486EA2867337F44	a \Lsh b
+2BAB32E3283E1806	a \Mu b
+49B8598D89DA868C	a \Nu b
+AE9F7751EEE824E3	a \Omega b
+F913115D490DF106	a \Omicron b
+82917BBD70419E3E	a \P b
+6E2B3A388DB56A26	a \Phi b
+B8AFC675A4516057	a \Pi b
+74CD8B63CC6BB1DB	a \Psi b
+B82602A0D5AD7D99	a \Re b
+6642AB8E6A163C06	a \Rho b
+EB6F90379885DE84	a \Rightarrow b
+0DF83E726144F8AF	a \Rrightarrow b
+CE48C8E65563CBEF	a \Rsh b
+F55C44D3F8DA3826	a \S b
+CADD9168E1514EFB	a \Sigma b
+B0EB7F6532AA8AEB	a \Subset b
+D523B68D91BE1E29	a \Supset b
+D2FCE8D4B97A1183	a \Tau b
+BE0D63E1875D866F	a \Theta b
+5C28D2B6A214EFD3	a \Uparrow b
+66BD716FB1E5BBEB	a \Updownarrow b
+2ED40521C8484254	a \Upsilon b
+149A1014BFD324C7	a \Vdash b
+A4DC21413166051F	a \Vert b
+0262A5568DF95F3D	a \Vvdash b
+755BF4ABEA10185A	a \Xi b
+D896A179101722A8	a \Zeta b
+48C2A94E9E3C1BDC	a \adots b
+0F8B7A07673CDE8B	a \aleph b
+B700828E8B1A4EAF	a \alpha b
+3635F1A9418C9149	a \amalg b
+9A231115C72CE2A6	a \angle b
+E8F622EFBF7EC555	a \approx b
+811610B318564DC6	a \approxcolon b
+873CEAC8E25B0F6A	a \approxeq b
+C6EA75EF3AD5E68D	a \ast b
+5D3D4AF3885430F8	a \asymp b
+BE802F31953283F9	a \backepsilon b
+78218806F14C34EE	a \backprime b
+75126B024A6687DC	a \backsim b
+67162019E944856E	a \backsimeq b
+F7214D0F2E3DDC64	a \backslash b
+3A2195FBF7193942	a \barwedge b
+A85A70A60AE7A6A7	a \because b
+CCFB542B44E290ED	a \beta b
+661F70A3278073BC	a \beth b
+F267F7E7C5AB11AF	a \between b
+14AFA389F87A76C0	a \bigcap b
+339B9FBDDBF64CDE	a \bigcirc b
+457AD22F71C9A5CC	a \bigcup b
+807327336FC55D32	a \bigodot b
+F403912905E366F7	a \bigoplus b
+1D87FBBDCEF2D054	a \bigotimes b
+D6C60B305AA9E849	a \bigsqcap b
+884B7716FED819CA	a \bigsqcup b
+70DFE0F413134205	a \bigstar b
+D9E49E6DD5890BE7	a \bigtimes b
+C5AF7E4A94256797	a \bigtriangledown b
+A15CFABF6773EA70	a \bigtriangleup b
+855AF761B03A80D3	a \biguplus b
+6AC08C430FCE7097	a \bigvee b
+F13F975C72E1859B	a \bigwedge b
+1242070254779695	a \blacklozenge b
+14281A03E59C4C6C	a \blacksquare b
+59F765D11154160E	a \blacktriangle b
+B61BADCB6016AA3E	a \blacktriangledown b
+0C8338B94FEBCAE8	a \blacktriangleleft b
+7FF56C22B181D098	a \blacktriangleright b
+FDB97764EF6C9652	a \bot b
+E094A074FA3D5CE8	a \bowtie b
+7FCF13EFBBE14F21	a \boxdot b
+1EB9C7AA9C9DFDB8	a \boxminus b
+6821E2BADFBC050F	a \boxplus b
+FC6B3A6FF598ACC8	a \boxtimes b
+CA29D53CF1FEE917	a \bullet b
+FAFA7AC7E14D0B8E	a \bumpeq b
+3C0F4B5A2A9040D4	a \cap b
+1BF8B37148DB66ED	a \cdot b
+C56EED2C12B511D6	a \cdotp b
+ECE1B8D55A657014	a \cdots b
+6B9420CA0E9BDD60	a \centerdot b
+ACE05A7102EFE157	a \checkmark b
+D8095BAC0F76802E	a \chi b
+6D2EBF6983A0E395	a \circ b
+CCB02BD8D4E9FCE2	a \circeq b
+6EA4FC7A85E0C2D1	a \circlearrowleft b
+1377BC96C9C95C8A	a \circlearrowright b
+2ACB22AC46F52AB1	a \circledR b
+0F0506599F9C149D	a \circledS b
+ABC0C43A2FDD66BA	a \circledast b
+CCD6C322D27477B2	a \circledcirc b
+63544E59E592E473	a \circleddash b
+2156C0A2820CCB5C	a \clubsuit b
+208918132D1ECB5A	a \colon b
+398DA743C43B5E08	a \coloneq b
+999E6525C97BA251	a \coloneqq b
+129E18B542C57EA4	a \complement b
+4B0238670B5EE7B0	a \cong b
+6C46907C90CF36A0	a \coprod b
+CCE98562035EA933	a \copyright b
+83B1F7E3EBC3772E	a \cup b
+81ABB4E9DDCA23E0	a \curlyeqprec b
+273AA839B508739B	a \curlyeqsucc b
+D0B125EFCBE5BD9E	a \curlyvee b
+0BF8F8EEFC6999D8	a \curlywedge b
+9CD66AC5E992FBE8	a \curvearrowleft b
+39F9839475725F32	a \curvearrowright b
+095A7B10D8FC3CEF	a \dag b
+2F8F1D19F2B5D9C5	a \dagger b
+3146364A28BF057B	a \daleth b
+6F0B0EE71758D159	a \dashleftarrow b
+70D8416CD5B7B796	a \dashrightarrow b
+671FBBBC1CB31E9A	a \dashv b
+4DAF19CC95BA8576	a \ddag b
+19E67912A0872F8E	a \ddagger b
+C6A48F929DE19AAB	a \ddots b
+6EB279EFFB2F51FE	a \degree b
+D5E93D01441CB6BC	a \delta b
+DFE7066B1A641885	a \diagdown b
+0A3FAA1D7728201D	a \diagup b
+D246892E879E547B	a \diamond b
+6A6266101E2651E0	a \diamondsuit b
+23BEBB1BDFF30F48	a \digamma b
+9B92B08BF338FBC6	a \div b
+12962C28ECDB8010	a \divideontimes b
+BBB9F8ADEE5C1A36	a \doteq b
+07B337E626678CD3	a \doteqdot b
+3CBF03235B4EBCE2	a \dotplus b
+5899B6A7AC8C866C	a \dots b
+58497EB971BD1D97	a \dotsb b
+CD7626D8768EB2A9	a \dotsc b
+C1C34F6A4E05AF39	a \dotsi b
+A5F4E7B1A10BAA18	a \dotsm b
+216583DF80567817	a \dotso b
+E0C322A853D7E116	a \doublebarwedge b
+C689D441E59D85F9	a \downarrow b
+C8EC842714988A81	a \downdownarrows b
+54204A7DCDD5628D	a \downharpoonleft b
+B556EA3967E0371F	a \downharpoonright b
+24A180434E59A510	a \ell b
+60B33EBC41C91C3F	a \emptyset b
+F2EA92977B06346F	a \epsilon b
+A5D2FE81ECD9E787	a \eqcirc b
+A2D454BCB0CAFB19	a \eqqcolon b
+D3CA380509615675	a \eqsim b
+09406FD77B2DBC51	a \eqslantgtr b
+747897CAB5467DD8	a \eqslantless b
+6BC1F762832F9F18	a \equal b
+5DE60B8299ABAD35	a \equiv b
+1A254B202DBAEFA5	a \eta b
+0CD272104EFE32CF	a \eth b
+444C61B812CD7C6C	a \euro b
+EC6ABD01871EA902	a \exists b
+E10C549E1D958967	a \fallingdotseq b
+6EF75FB5D34BDDD9	a \fint b
+234789BCF48C8037	a \flat b
+3FE37E1158509824	a \forall b
+37CCE448020A8339	a \frown b
+C35983792DCC4321	a \gamma b
+B6D5C8D682899475	a \ge b
+3368492A7853EA95	a \geq b
+CAC7989FEF98D1F3	a \geqq b
+B01A0C7421234295	a \geqslant b
+F66C7FA3674356ED	a \gets b
+68A4EE17B9FE2568	a \gg b
+BA75BBE89DDBC721	a \ggg b
+E118ACF8F3FA457A	a \gimel b
+97835DEDFA3E9E36	a \gnapprox b
+861179C65FDB7669	a \gneq b
+634BA015FB1B01E6	a \gneqq b
+78F02FA159D6AA22	a \gnsim b
+55EA45EB072C618E	a \gtrapprox b
+7C7C5025366B710A	a \gtrdot b
+C3F94EF1D4590EC4	a \gtreqless b
+319D217B51ACA9EF	a \gtreqqless b
+D0E33710BA7C13F1	a \gtrless b
+EEECD8FBFBDBF8F3	a \gtrsim b
+61F0201EA5388102	a \hbar b
+1DE82C05704F2569	a \hbars b
+0702F8A9860AD45D	a \heartsuit b
+DE27F24FE9F24883	a \hookleftarrow b
+AEBC4A2A87A93906	a \hookrightarrow b
+8D28D85FACC55A11	a \hslash b
+0EF933BEA7515E04	a \iddots b
+A8B442583793A9FC	a \iff b
+53862D3437CF8A1C	a \iiiint b
+7AA7DF5977F0A7EE	a \iiint b
+3C1F0283DEDDA532	a \iint b
+17193A40835C9625	a \imageof b
+059C17A6C7B0AE9E	a \imath b
+8A771DB8C740D4A7	a \impliedby b
+A37B7EB7C8BA0B18	a \implies b
+9208B30DBABA9A96	a \in b
+39E2E8AC3664423B	a \infinity b
+976A4152C3C3AE07	a \infty b
+108E01A3AAFD8903	a \int b
+BF16614451C1A71C	a \intercal b
+64E375F1704C8308	a \intop b
+6364CEBE03BD0303	a \iota b
+9F48388C163DEBCE	a \jmath b
+10E433CD265925C7	a \kappa b
+D66D2F59DB3DBC4E	a \lAngle b
+344FE6090FC46A6C	a \lBrace b
+ECBA6D139A6E17F5	a \lVert b
+02C6941715E96564	a \lambda b
+35E2C8C60903E541	a \land b
+F31A8D5BF7A44366	a \langle b
+47B56503B62070C8	a \lbrace b
+B20A30B583CB6789	a \lbrack b
+53C9A483CC4284F8	a \lceil b
+002E54A4F462FF51	a \ldotp b
+8FF94EFD2FDE00E0	a \ldots b
+2732AB708585A81B	a \le b
+BFC5CF5621D0A780	a \leadsto b
+8E277602AAE31AF6	a \leftarrow b
+35EE40D8AD833997	a \leftarrowtail b
+4C1EFED7D8B3BE08	a \leftharpoondown b
+201B68B27DE2DDD7	a \leftharpoonup b
+7B1926DC5C3DE39A	a \leftleftarrows b
+51F82DDD834E21DD	a \leftrightarrow b
+2E31E056DA1156D8	a \leftrightarroweq b
+F262B846E2BFA08D	a \leftrightarrows b
+14DEC2BEC09DC369	a \leftrightharpoons b
+F41AEBE2BC404AEF	a \leftrightsquigarrow b
+83A362AC7A3D10C7	a \leftthreetimes b
+57A09241ACF45C68	a \leq b
+9800C68C83078353	a \leqq b
+15E19393EDD5499D	a \leqslant b
+48839320889CE8D5	a \lessapprox b
+FA923168631836D1	a \lessdot b
+D224B2AF74E1D295	a \lesseqgtr b
+4AC6DD4D3CFF0219	a \lesseqqgtr b
+9DF57ED4728CFA38	a \lessgtr b
+6367E32162053594	a \lesssim b
+4BA575FCAFE86FD7	a \lfloor b
+DE35B5C382EE202B	a \lgroup b
+2F8263A67E7DDB9F	a \lhd b
+E91A2B4BEC09FAD7	a \ll b
+6D977DCDF0994C53	a \llbracket b
+980F44B2DB14B1A4	a \llcorner b
+7402E6E3E6E6F8FE	a \lll b
+3C32EC4F03272025	a \lmoustache b
+B6B1F0FAC5CBBA03	a \lnapprox b
+B35A3A98DED97648	a \lneq b
+324949E6593CC7B7	a \lneqq b
+3B3B58934E334ED3	a \lnot b
+963391EDA5115459	a \lnsim b
+8D9295F27EEAECD5	a \longleftarrow b
+F3DC94880510C462	a \longleftrightarrow b
+966AD0C2ED75463F	a \longmapsto b
+B60F9ED9A71B34A7	a \longrightarrow b
+7859016696077632	a \looparrowleft b
+458DACE7B6A3607A	a \looparrowright b
+6A4DF39D5A2B3A45	a \lor b
+70570AF74F0B893E	a \lozenge b
+2C3FAEE2491E3951	a \lparen b
+ABF58CE65F2932C3	a \lrcorner b
+03177716FF2E7C53	a \ltimes b
+B78DB9708C4BBC81	a \lvert b
+EEF1A9948B104C1E	a \maltese b
+41774EF00BCD4926	a \mapsto b
+8FB0F6A85B4BCE0F	a \mathellipsis b
+6F4455E5F400D2D6	a \measuredangle b
+E0173E3762E5C109	a \mho b
+ABE7D80F8070F7BB	a \mid b
+9F4ABF6DF3C12934	a \minuso b
+20BFBB82F5D3ACA0	a \models b
+206F6236C2C57CD3	a \mp b
+ADDD05F1C033331C	a \mu b
+244ACB5B703AA81C	a \multimap b
+B91E7D24015A06CB	a \nLeftarrow b
+8499A7C75F76AA24	a \nLeftrightarrow b
+0276DCF9C43AC88C	a \nRightarrow b
+57D905332E3E5281	a \nVDash b
+0100244BC9F99B04	a \nVdash b
+31DD7D8AB5A89AD3	a \nabla b
+FF648189B208E638	a \natural b
+54570BF3F56A7410	a \ncong b
+B89C6D7DE27D6064	a \ne b
+30AEDB5FCA7A9D6E	a \nearrow b
+53C9374D31FA1CDD	a \neg b
+B2D7E7DD8EC2C9B7	a \neq b
+EB40D549E64F4BFB	a \neqsim b
+50230792B14D3F8F	a \nexists b
+73F7C12B9E540A3E	a \ngeq b
+219F4F0949B693AE	a \ngtr b
+EF712A6866CF7A51	a \ni b
+1B079AA712E234A2	a \nleftarrow b
+8F82FFB9CEE5A4E8	a \nleftrightarrow b
+48E42EB0DA5B7768	a \nleq b
+E22B5E1A3F0C2A03	a \nless b
+D1F21FE90729C4DC	a \nmid b
+2309E16049AE6D08	a \notin b
+7E67B63D8AB28016	a \nparallel b
+77DC7D63D0493CD0	a \nprec b
+444EF9EE3A9CD413	a \npreceq b
+E5FF809143E9BB94	a \nrightarrow b
+633C254ED7C66457	a \nshortmid b
+BF7DEBFEFC7ECDCB	a \nshortparallel b
+65411824E504A42F	a \nsim b
+E138E78CEEB24A15	a \nsubseteq b
+53AA8E337D6D1637	a \nsubseteqq b
+EA54584467F9E32B	a \nsucc b
+CE8F4D0A172871CF	a \nsucceq b
+FB5B320507BB4A7B	a \nsupseteq b
+4CAC9881C193D7E3	a \nsupseteqq b
+B7A058B16772786B	a \ntriangleleft b
+4760CFADA9E71FED	a \ntrianglelefteq b
+5164B4BD4C457E1F	a \ntriangleright b
+B240C909758BDA83	a \ntrianglerighteq b
+839DD21B19C52C99	a \nu b
+73305DBA891804A7	a \nvDash b
+399F2A36C4E93997	a \nvdash b
+D2D7578DE911BF0E	a \nwarrow b
+8C346BBA8CA0D192	a \odot b
+E5D1A95FBC541B99	a \oiiint b
+E7278D706E6C65B1	a \oiint b
+90B095F3BCAE22E6	a \oint b
+92A16BB76DFBEEBF	a \ointctrclockwise b
+01FD8DB53141FB35	a \omega b
+393CD43E81D97193	a \omicron b
+9F039F588DD51256	a \ominus b
+022528B48959D955	a \oplus b
+EACDEE6902E8958F	a \origof b
+A5E0A6D7D70F8DE8	a \oslash b
+F9BA59F23981A84A	a \otimes b
+158CBD3F5A1FC0CD	a \owns b
+9C3EEE0363CDB27A	a \parallel b
+283A9B50AD128893	a \partial b
+D89D170276878D63	a \perp b
+3439EC450B9A2823	a \phi b
+161928FCF2A24EBF	a \pi b
+B4766D8415273960	a \pitchfork b
+B4571286C167B12F	a \pm b
+B7C00EDC8BAAE1CF	a \pounds b
+0D49F878A08DBFF3	a \prec b
+BD27AC8145FA73FD	a \precapprox b
+764E2C4B1F6D320A	a \preccurlyeq b
+515C7BB88CB4F713	a \preceq b
+BB312BC92074B702	a \precnapprox b
+F4BB2D99058F38BB	a \precneqq b
+4DADEABBD73C2486	a \precnsim b
+4CD7351849DCF73D	a \precsim b
+46920514A3D66A1B	a \prime b
+2BDC53D66A459425	a \prod b
+9C6A33861D67E1D5	a \propto b
+E10C08E0EA6EE288	a \psi b
+3B465458027921FF	a \rAngle b
+0A3A08791C48E8CA	a \rBrace b
+4B689E8E653561CF	a \rVert b
+18C3B05B884FC4B8	a \rangle b
+FC2FBDCF8C84B5F5	a \rbrace b
+983A511EB21F6E33	a \rbrack b
+C4CC2A7659DB5882	a \rceil b
+22C2F37AF72ABED2	a \restriction b
+E618A629A420A6B7	a \rfloor b
+A7EADB9F276669E7	a \rgroup b
+C3CD5DCB0F842EF5	a \rhd b
+A71D361611CCD33A	a \rho b
+44441749B4504086	a \rightarrow b
+AF53FFFFDBDC4661	a \rightarrowtail b
+93EC1A92D87E115B	a \rightharpoondown b
+12A52E8304E48831	a \rightharpoonup b
+8295FB293502B2BD	a \rightleftarrows b
+DA007CF63C6B166C	a \rightleftharpoons b
+94EB7AFBF360B9AD	a \rightrightarrows b
+31E19628EC64547B	a \rightsquigarrow b
+7B250D005048381F	a \rightthreetimes b
+A7CE8656493307F1	a \risingdotseq b
+9F13F9D97376200C	a \rmoustache b
+F84A2F4FCB261E08	a \rparen b
+29999D667E08B07A	a \rrbracket b
+3A35389C7F3130B0	a \rtimes b
+96200D786CC71F83	a \rvert b
+A5677AA0BF71B35F	a \searrow b
+AD90CDD7DB8F64E5	a \setminus b
+80CF2D54A025B6B2	a \sharp b
+3F1486658B62F448	a \shortmid b
+D01EE1E5107BFEA9	a \shortparallel b
+9B128AD4438B84EB	a \sigma b
+93DE45DE113B7725	a \sim b
+BE053144394DEC8B	a \simeq b
+26AA6EA87E5F34CB	a \smallfrown b
+8B910220BC0FF9AF	a \smallint b
+51D01062F7584FA1	a \smallsetminus b
+32C69E563CFF1267	a \smallsmile b
+B2D3F883C75C5A35	a \smile b
+456D3F93BB6ABFC4	a \spadesuit b
+E85BC2A6FCAA86C2	a \sphericalangle b
+D4434903E0A824F9	a \sqcap b
+67CC3EA5BC5F6297	a \sqcup b
+996922AA8C473363	a \sqint b
+7C11302B84527E4C	a \sqsubset b
+0561E089DDA65797	a \sqsubseteq b
+A12EA98E9E02EA9D	a \sqsubsetneq b
+9AE15BA398ABEFC2	a \sqsupset b
+22AAE7D5E99567C9	a \sqsupseteq b
+87CFD487E17AEA21	a \sqsupsetneq b
+54BBCF0FC1988ED6	a \square b
+042DA19288FC78BC	a \star b
+D5E1F41B0BC1D0E1	a \subset b
+217CAAAD62D576EC	a \subseteq b
+840538FF9E25637A	a \subseteqq b
+73F0D5A423C43686	a \subsetneq b
+B878ADB008EC39E6	a \subsetneqq b
+AA6B4F7F7D2E656E	a \succ b
+6E1707DCF36286BD	a \succapprox b
+5E663E72A9976F38	a \succcurlyeq b
+EAE9690188405435	a \succeq b
+A118B048CFF922BB	a \succnapprox b
+4BE6B6EEC7DBEA52	a \succneqq b
+8E111571A1005DF4	a \succnsim b
+747D6B2F2DDFAADD	a \succsim b
+77CC5B491016D4B6	a \sum b
+B973A0F6C04D433E	a \supset b
+D67973E557FC12A5	a \supseteq b
+AFD6D7EB45668BC0	a \supseteqq b
+7C086A7BB1B31253	a \supsetneq b
+7224D9117D34784C	a \supsetneqq b
+C00207B3A008DF37	a \surd b
+D07DCA0BA0149CFD	a \swarrow b
+3FA4887815A3D109	a \tau b
+7F2163C33B7E5031	a \textbackslash b
+2725213485A200E3	a \therefore b
+28CA195FFE7B0751	a \theta b
+715F76A7BF5498CE	a \thickapprox b
+09B536E262998E43	a \thicksim b
+FE5020A67BEBAE73	a \times b
+C53CAF4EE9866260	a \to b
+AB90F71D2FC1D37D	a \top b
+276CB7114EA00DD6	a \triangle b
+805F6DBAD02B61EA	a \triangledown b
+194F02FE45396A48	a \triangleleft b
+AAFA096B0A89714F	a \trianglelefteq b
+9259CA01E447DA4A	a \triangleq b
+9026F4F8EE379813	a \triangleright b
+52F07ABD73009198	a \trianglerighteq b
+BD7A1413264D24CB	a \twoheadleftarrow b
+0D4453EC1B481D8B	a \twoheadrightarrow b
+B152F7C25663D1D8	a \ulcorner b
+E306D9FD4230ABAC	a \unlhd b
+C8008B45C779F549	a \unrhd b
+89F94809855A49C3	a \uparrow b
+BF9036DF113D337E	a \updownarrow b
+0E579AB51655C6DC	a \upharpoonleft b
+C915BF73AC8C91DC	a \upharpoonright b
+5B07B3C98BDACB84	a \uplus b
+EDC24E315B0DD5A5	a \upsilon b
+2F91814D4647E437	a \upuparrows b
+9680B491AADFBC61	a \urcorner b
+CC63B4295456ED3D	a \vDash b
+E88293CE19944E0D	a \varDelta b
+07B511FD5690158D	a \varGamma b
+94F1287E2DC17FA6	a \varLambda b
+450B736A2DD1D88B	a \varOmega b
+406BE0703D459D81	a \varPhi b
+6B08691FB0A45997	a \varPi b
+6CDF5676A097F0E2	a \varPsi b
+018371D3D9CF6770	a \varSigma b
+0FAC6CD2630DE1DE	a \varTheta b
+7C5643035C6840DA	a \varUpsilon b
+1DD3AC56265EEFB6	a \varXi b
+BDBA7E50F27F6533	a \varepsilon b
+D7D5906EE3F2A153	a \varkappa b
+941E8EAB97DF3C8A	a \varnothing b
+8BB082E78550DA48	a \varointclockwise b
+C5461F3DF5878048	a \varphi b
+892E4E7000B9D2A5	a \varpi b
+FC913CE265443DD3	a \varpropto b
+D5363B02C8546525	a \varrho b
+AB4C4D0569DBF22A	a \varsigma b
+DD515D6B9C772558	a \varsubsetneq b
+78E33D1711979597	a \varsupsetneq b
+DB89D61E23AC0A22	a \vartheta b
+8E4CA34FE4FD0AE4	a \vartriangle b
+828DEF1E691F3940	a \vartriangleleft b
+34535C143040C02C	a \vartriangleright b
+27F3832A1115DA88	a \vdash b
+D24C94FD62627643	a \vdots b
+9536261EF311EA90	a \vee b
+F8F61879F46E8C9F	a \veebar b
+6F0690D33CCE1882	a \vert b
+F78EFBFC8FBFC56D	a \wedge b
+5C8180ACDBE4EB1F	a \wp b
+58E044322A1E7DD3	a \wr b
+4F629DEBE50D4EB7	a \xi b
+3C17157671741029	a \yen b
+92B120374D4E0E0F	a \zeta b
+84C1FDD29DA32EC2	a \| b
+8966505F3D703710	D:\Cov_{x}^{y} f
+23820362A081536B	D:\Pr_{x}^{y} f
+FCBE95BE473BC09A	D:\Tr_{x}^{y} f
+CCF6462E3C2CF389	D:\Var_{x}^{y} f
+740259D89E932CE2	D:\arccos_{x}^{y} f
+9990EB52721F6316	D:\arcctg_{x}^{y} f
+1A2AF5170E20C67F	D:\arcsin_{x}^{y} f
+3920F7BD0BFDAA1C	D:\arctan_{x}^{y} f
+F98B596CAD1F920A	D:\arctg_{x}^{y} f
+5ECD6678D9F2ABF9	D:\arg_{x}^{y} f
+9FE2260C10241296	D:\argmax_{x}^{y} f
+7E1E1FFA33E5F3ED	D:\argmin_{x}^{y} f
+952442EF82F951E4	D:\ch_{x}^{y} f
+81D54F6D7AB59A21	D:\cos_{x}^{y} f
+D28CA6A1B1060CD0	D:\cosec_{x}^{y} f
+78A7CDF24884741B	D:\cosh_{x}^{y} f
+F0AB5D0D949610A3	D:\cot_{x}^{y} f
+B366893D3BBE1571	D:\cotg_{x}^{y} f
+AAF181986EAB1D4A	D:\coth_{x}^{y} f
+65E030E87B2C7629	D:\csc_{x}^{y} f
+10B35B23146A1E1F	D:\ctg_{x}^{y} f
+FF337D8239CAA2AB	D:\cth_{x}^{y} f
+0F10D4A049D097EE	D:\deg_{x}^{y} f
+C3D143C2CF79884F	D:\det_{x}^{y} f
+0795F5397CF8FF76	D:\diag_{x}^{y} f
+7BBF6605C3FC5B78	D:\dim_{x}^{y} f
+938E22C4AC728F37	D:\erf_{x}^{y} f
+30869C6543A035CE	D:\exp_{x}^{y} f
+12900AFE9B2ACBB3	D:\gcd_{x}^{y} f
+ECB75F2503692C69	D:\hom_{x}^{y} f
+3E73FF90F19C43E6	D:\inf_{x}^{y} f
+BA70B881C9430215	D:\injlim_{x}^{y} f
+A3234CB383EF91DD	D:\ker_{x}^{y} f
+065D03840FB5549A	D:\lg_{x}^{y} f
+EB0FCCC2A69CC2BC	D:\lim_{x}^{y} f
+B0A6C19BADDC45FE	D:\liminf_{x}^{y} f
+61CB6D8CC199E345	D:\limsup_{x}^{y} f
+41BDF546BC882758	D:\ln_{x}^{y} f
+412E01B19FB1D689	D:\log_{x}^{y} f
+101F363BD87C844C	D:\max_{x}^{y} f
+F364F9A1C7C60DDD	D:\min_{x}^{y} f
+6F89D35B1F098A68	D:\projlim_{x}^{y} f
+8B205C8FD0BE6DC6	D:\rank_{x}^{y} f
+1397A20B4FB2081D	D:\sec_{x}^{y} f
+C028D50F6B01C336	D:\sgn_{x}^{y} f
+1F2B04C596336C20	D:\sh_{x}^{y} f
+B66E5875FC7C4778	D:\sin_{x}^{y} f
+865AAD2C7F0A3788	D:\sinh_{x}^{y} f
+FA95E0ECFFC89209	D:\span_{x}^{y} f
+BB5A1B0419F738D2	D:\sup_{x}^{y} f
+849C9B4FEC513D2F	D:\tan_{x}^{y} f
+7106B5F97CCAF505	D:\tanh_{x}^{y} f
+848186F9F223D028	D:\tg_{x}^{y} f
+BF86D38404DF2BCF	D:\th_{x}^{y} f
+2F405AC8C0012E05	D:\tr_{x}^{y} f
+81F66E3710129790	\Overrightarrow{x} \Overrightarrow{AB}
+69DDA1FF0487FFD7	\acute{x} \acute{AB}
+F9D765AE172736B3	\bar{x} \bar{AB}
+9907594FD04016F1	\breve{x} \breve{AB}
+E6521AE4051FCAEC	\check{x} \check{AB}
+7EA6B7514BACB915	\ddddot{x} \ddddot{AB}
+EEEFF87607D8498A	\dddot{x} \dddot{AB}
+293E1915A3906586	\ddot{x} \ddot{AB}
+08AE2B058BB85F44	\dot{x} \dot{AB}
+15CBD6FEDE7BDE67	\grave{x} \grave{AB}
+C9D2A89484FE2ED0	\hat{x} \hat{AB}
+4B9030736D7B443E	\mathring{x} \mathring{AB}
+8E25D8430BECDCAF	\overgroup{x} \overgroup{AB}
+8F5029AC470A02BF	\overleftarrow{x} \overleftarrow{AB}
+F3FCC43A4F610726	\overleftharpoon{x} \overleftharpoon{AB}
+3243C24F18A7F9D2	\overleftrightarrow{x} \overleftrightarrow{AB}
+DD948EB7E51C66F6	\overlinesegment{x} \overlinesegment{AB}
+710B47733F9024C2	\overrightarrow{x} \overrightarrow{AB}
+28AE67620E8633A4	\overrightharpoon{x} \overrightharpoon{AB}
+13AF02276F5A542D	\tilde{x} \tilde{AB}
+7C47D5E2716605DE	\undergroup{x} \undergroup{AB}
+3BD9053FB364733F	\underleftarrow{x} \underleftarrow{AB}
+AB41B9D34F3F9FA0	\underleftrightarrow{x} \underleftrightarrow{AB}
+9BA24FA72AB3CAB3	\underrightarrow{x} \underrightarrow{AB}
+8CB853841A195A52	\utilde{x} \utilde{AB}
+07AA15D62A2C1334	\vec{x} \vec{AB}
+07C21369235EE913	\widebar{x} \widebar{AB}
+D4B6B1431A0D06C1	\widecheck{x} \widecheck{AB}
+2E09DCF67EFAB264	\widehat{x} \widehat{AB}
+FB1F1098303C5A17	\widetilde{x} \widetilde{AB}
